@@ -1,3 +1,6 @@
+
+🔙 [Back to Main](README.md)
+
 ### `Cookie` Overview:
 ----
 - A `cookie` domain is an attribute of a `cookie` whose value is a domain name. The web browser uses this domain name to determine whether or not it should send the `cookie` in a current HTTP request. We’ll first motivate the need for cookies. Then we’ll explain the format of the `Set-cookie` and `Cookie headers`. Finally, we’ll explain how the browser uses `cookie` domains, and other `cookie` attributes, to determine when to send a `cookie` to a web server. </br>
